@@ -1,9 +1,5 @@
-# Flutter Base App
+# Flutter Valorant App
 
-This is Flutter Starter Template For Simple App
-* Include Theme
-* Include package googleFonts
-* Include package dotNavigationBar
 
 *update in future
 
